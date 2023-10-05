@@ -1,2 +1,2 @@
 #!/bin/bash
-grep /etc/passwd | cut -d: -f1
+cut -d: -f1 | grep /etc/passwd
