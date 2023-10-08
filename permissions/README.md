@@ -1,6 +1,6 @@
 Shell,permissions
 /0. Create a script that switches the current user to the user betty.\
-/1. Write a script that prints the effective username of the current user.\ 
+/1. Write a script that prints the effective username of the current user.\
 /2. Write a script that prints all the groups the current user is part of.\
 /3. Write a script that changes the owner of the file hello to the user betty.\
 /4. Write a script that creates an empty file called hello.\
@@ -23,4 +23,4 @@ for all the files and directories in the working directory.\
 /15. Write a script that changes the owner and the group owner of _hello to vincent\
 and staff respectively.\
 /16. Write a script that changes the owner of the file hello to vincent only if it\
-is owned by the user guillaume.\
+is owned by the user guillaume.
